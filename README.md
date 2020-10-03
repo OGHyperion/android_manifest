@@ -26,7 +26,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/RevengeOS/android_manifest -b r11.0
+repo init -u https://github.com/OGHyperion/android_manifest -b r11.0
 ```
 Then to sync up:
 ================
